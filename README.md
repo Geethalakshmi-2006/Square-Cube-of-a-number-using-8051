@@ -2,6 +2,7 @@
 # 8051 Square  Program
 # Name: GEETHALAKSHMI D
 # Reg no: 212224060079
+
 ## AIM
 To write and execute an Assembly language program for finding the square of a given data using 8051 microcontroller in Keil software.
 
@@ -31,8 +32,13 @@ END
 <img width="791" height="232" alt="image" src="https://github.com/user-attachments/assets/534df022-8a50-4f83-bd2f-e699253d0763" />
 
 
+
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
+
+
+
+
 
 # 8051 Cube  Program
 
@@ -65,6 +71,9 @@ END
 
 ## OUTPUT
 <img width="500" height="357" alt="image" src="https://github.com/user-attachments/assets/a4a0469e-1015-4a37-bb93-8e141ea5af9f" />
+<img width="645" height="412" alt="image" src="https://github.com/user-attachments/assets/01811d06-2d94-43ea-b4aa-90c7c058e7d0" />
+
+
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
